@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a postgraduate at UCAS, interested in computer science.
 
-Rust fan! Passionate about open source！Previous acmer@ccnu.
+Rust fan! Passionate about open source！Previous acmer@ccnu！
 
 Looking for an internship in infra.
 
