@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm a postgraduate at UCAS, interested in computer science.
 
-Rust fan! Passionate about open source！
+Rust fan! Passionate about open source！Previous acmer@ccnu.
 
 Looking for an internship in infra.
 
 - 📫 How to reach me: wy1109468038@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=my-vegetable-has-exploded)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=my-vegetable-has-exploded&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
