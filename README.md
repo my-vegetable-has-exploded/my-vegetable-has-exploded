@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a postgraduate at UCAS, interested in computer science.
+
+Rust fan! Passionate about open source！
+
+Looking for an internship in infra.
+
+- 📫 How to reach me: wy1109468038@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=my-vegetable-has-exploded)](https://github.com/anuraghazra/github-readme-stats)
