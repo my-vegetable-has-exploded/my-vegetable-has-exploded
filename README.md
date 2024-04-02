@@ -19,7 +19,7 @@ I'm a postgraduate at UCAS, interested in computer science.
 
 Rust fan! Passionate about open source！Previous acmer@ccnu！
 
-Looking for an internship in infra.
+Looking for an internship.
 
 - 📫 How to reach me: wy1109468038@gmail.com
 
