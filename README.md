@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - I'm working on Ray at DiDi.
 
-- I got my master degree at [ISCAS](http://www.iscas.ac.cn/).
+- I got my master degree at [ISCAS](http://www.iscas.ac.cn/), UCAS.
 
 - Rust fan! Passionate about open source！Previous acmer@ccnu！
 
