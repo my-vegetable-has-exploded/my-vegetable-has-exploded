@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a postgraduate at UCAS, interested in computer science.
+- I'm working on Ray at DiDi.
 
-Rust fan! Passionate about open source！Previous acmer@ccnu！
+- I got my master degree at [ISCAS](http://www.iscas.ac.cn/).
 
-Looking for a full-time job.
+- Rust fan! Passionate about open source！Previous acmer@ccnu！
+
+<!-- Looking for a full-time job.-->
 
 - 📫 How to reach me: wy1109468038@gmail.com
 
